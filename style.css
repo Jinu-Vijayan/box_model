@@ -12,6 +12,7 @@
 
 h1,p,ul,li,button,a{
     border:2px solid red;
+    padding:4px;
 }
 
 ul{
